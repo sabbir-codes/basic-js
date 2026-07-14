@@ -80,3 +80,11 @@ for (let i = 0; i < students.length; i++) {
     console.log(students[i].name + " needs improvement.");
   }
 }
+
+// const → to store the array.
+// Array → to hold multiple students.
+// Objects → to store each student's details.
+// Loop → to process every student.
+// Condition → to decide the message.
+// Operators → >= for comparison.
+// Variables → i for the loop index.
